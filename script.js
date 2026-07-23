@@ -100,6 +100,74 @@ Ek smile se mera pura din ban jata hai.
 <br>
 Bina permission mera dil chura lena. 😤❤️
 
+<br><br>
+
+<button onclick="showPolice()">
+🚔 CHECK LOVE POLICE DATABASE
+</button>
+`;
+
+}
+function showPolice(){
+
+scanBox.innerHTML=`
+
+<h2>🚔 LOVE POLICE DATABASE</h2>
+
+<br>
+
+🚨 Crime Detected:
+<br>
+❤️ Dil Chori
+
+<br><br>
+
+🕵️ Prime Suspect:
+<br>
+Snoor 🤭
+
+<br><br>
+
+👤 Victim:
+<br>
+Jagat
+
+<br><br>
+
+📌 Evidence:
+
+<br>
+• Cute Smile 😊
+
+<br>
+• Innocent Face 🥺
+
+<br>
+• Beautiful Eyes ✨
+
+<br><br>
+
+⚖️ Punishment Decided:
+
+<br>
+
+Lifetime mere saath rehna. ❤️
+
+<br>
+
+No Bail.
+<br>
+No Escape.
+<br>
+Only Love. 🤍
+
+
+<br><br>
+
+<button onclick="showExtra()">
+❤️ SEE EXTRA FINDINGS
+</button>
+
 
 `;
 
